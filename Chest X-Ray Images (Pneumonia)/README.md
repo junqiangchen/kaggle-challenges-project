@@ -1,6 +1,6 @@
-# BoneAgeChallenge
-> This is an example of the X-ray images BoneAge Predict
-![](BoneAgeChallenge.png)
+# Chest X-Ray Images (Pneumonia)
+> This is an example of the X-Ray Pneumonia classify
+![](图片1.png)
 
 ## Prerequisities
 The following dependencies are needed:
@@ -17,10 +17,10 @@ The following dependencies are needed:
 more details can find on my wechat public article
 
 ## Result
-**BoneAge Predict value**
-![](result1.png)
-
-![](result2.png)
+**classify confused Matrix**
+![](consusemertic2.png)
+**classify ROC**
+![](roc2.png)
 
 ## Contact
 * https://github.com/junqiangchen

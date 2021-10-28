@@ -1,0 +1,1001 @@
+label,Image
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/07PerioralSteroid1.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/acne-closed-comedo-10.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/acne-closed-comedo-13.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/acne-closed-comedo-28.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/acne-closed-comedo-36.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/acne-closed-comedo-39.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/acne-closed-comedo-9.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/acne-cystic-10.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/acne-cystic-111.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/acne-cystic-124.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/acne-cystic-147.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/acne-cystic-150.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/acne-cystic-34.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/acne-cystic-6.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/acne-excoriated-1.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/acne-excoriated-21.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/acne-excoriated-24.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/acne-infantile-15.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/acne-infantile-3.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/acne-open-comedo-1.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/acne-open-comedo-6.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/acne-open-comedo-62.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/acne-pustular-15.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/acne-pustular-27.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/acne-pustular-39.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/acne-pustular-70.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/hidradenitis-suppurativa-35.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/hidradenitis-suppurativa-58.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/hidradenitis-suppurativa-59.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/hidradenitis-suppurativa-78.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/hidradenitis-suppurativa-79.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/hidradenitis-suppurativa-89.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/milia-19.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/minocycline-pigmentation-1.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/perioral-dermatitis-102.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/perioral-dermatitis-51.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/rhinophyma-3.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/rosacea-23.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/rosacea-31.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/rosacea-5.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/rosacea-52.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/rosacea-94.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/rosacea-nose-19.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/rosacea-nose-57.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/rosacea-nose-65.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\train/Acne and Rosacea Photos/rosacea-steroid-7.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/actinic-cheilitis-sq-cell-lip-5.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/actinic-keratosis-5FU-1.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/actinic-keratosis-5FU-18.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/actinic-keratosis-5FU-40.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/actinic-keratosis-ear-3.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/actinic-keratosis-face-45.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/actinic-keratosis-face-49.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/actinic-keratosis-face-51.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/actinic-keratosis-hand-6.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/actinic-keratosis-pigmented-9.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/actinic-keratosis-trunk-3.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/arsenical-keratoses-1.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-carcinoma-aldara-3.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-carcinoma-ear-35.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-carcinoma-face-16.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-carcinoma-face-3.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-carcinoma-lesion-105.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-carcinoma-lesion-127.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-carcinoma-lesion-58.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-carcinoma-lesion-72.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-carcinoma-lid-11.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-carcinoma-lip-22.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-carcinoma-nose-20.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-carcinoma-nose-54.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-carcinoma-nose-58.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-carcinoma-nose-73.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-carcinoma-pigmented-25.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-carcinoma-pigmented-45.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-carcinoma-scalp-14.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-carcinoma-superficial-19.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-carcinoma-superficial-21.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-carcinoma-superficial-34.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-carcinoma-superficial-40.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-nevus-syndrome-11.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-nevus-syndrome-6.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/bowens-disease-11.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/bowens-disease-37.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/bowens-disease-4.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/bowens-disease-73.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/bowens-disease-80.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/bowens-disease-84.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/ctcl-101.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/ctcl-103.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/ctcl-36.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/ctcl-5.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/ctcl-89.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/ctcl-90.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/cutaneous-horn-19.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/cutaneous-horn-21.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/dermatofibrosarcoma-3.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/erythroplasia-queyrat-7.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/granulation-tissue-33.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/paget-disease-breast-8.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/squamous-cell-carcinoma-face-4.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/squamous-cell-carcinoma-lip-9.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\train/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/squamous-cell-carcinoma-nose-5.jpg
+2,E:\MedicalData\kagglechallenge\Dermnet\train/Atopic Dermatitis Photos/03ichthyosis020127.jpg
+2,E:\MedicalData\kagglechallenge\Dermnet\train/Atopic Dermatitis Photos/05Atopic02161.jpg
+2,E:\MedicalData\kagglechallenge\Dermnet\train/Atopic Dermatitis Photos/05atopic0411052.jpg
+2,E:\MedicalData\kagglechallenge\Dermnet\train/Atopic Dermatitis Photos/05Atopic0712042.jpg
+2,E:\MedicalData\kagglechallenge\Dermnet\train/Atopic Dermatitis Photos/05AtopicFace43.jpg
+2,E:\MedicalData\kagglechallenge\Dermnet\train/Atopic Dermatitis Photos/05atopicFeet0801055.jpg
+2,E:\MedicalData\kagglechallenge\Dermnet\train/Atopic Dermatitis Photos/05child0612053.jpg
+2,E:\MedicalData\kagglechallenge\Dermnet\train/Atopic Dermatitis Photos/05hyperLinearCrease042804.jpg
+2,E:\MedicalData\kagglechallenge\Dermnet\train/Atopic Dermatitis Photos/05KeratosisPilaris0510041.jpg
+2,E:\MedicalData\kagglechallenge\Dermnet\train/Atopic Dermatitis Photos/05KeratosisPilaris1013.jpg
+2,E:\MedicalData\kagglechallenge\Dermnet\train/Atopic Dermatitis Photos/05KeratosisPilaris15.jpg
+2,E:\MedicalData\kagglechallenge\Dermnet\train/Atopic Dermatitis Photos/05mouthChild122206.jpg
+2,E:\MedicalData\kagglechallenge\Dermnet\train/Atopic Dermatitis Photos/05SexLinkedEchthyosis02233.jpg
+2,E:\MedicalData\kagglechallenge\Dermnet\train/Atopic Dermatitis Photos/05SexLinkedEchthyosis02236.jpg
+2,E:\MedicalData\kagglechallenge\Dermnet\train/Atopic Dermatitis Photos/3IMG003.jpg
+2,E:\MedicalData\kagglechallenge\Dermnet\train/Atopic Dermatitis Photos/5T-0023.jpg
+2,E:\MedicalData\kagglechallenge\Dermnet\train/Atopic Dermatitis Photos/7IMG002.jpg
+2,E:\MedicalData\kagglechallenge\Dermnet\train/Atopic Dermatitis Photos/AtopicIMG005-GP3.jpg
+3,E:\MedicalData\kagglechallenge\Dermnet\train/Bullous Disease Photos/benign-familial-chronic-pemphigus-24.jpg
+3,E:\MedicalData\kagglechallenge\Dermnet\train/Bullous Disease Photos/benign-familial-chronic-pemphigus-29.jpg
+3,E:\MedicalData\kagglechallenge\Dermnet\train/Bullous Disease Photos/bullous-pemphigoid-63.jpg
+3,E:\MedicalData\kagglechallenge\Dermnet\train/Bullous Disease Photos/dariers-disease-17.jpg
+3,E:\MedicalData\kagglechallenge\Dermnet\train/Bullous Disease Photos/dariers-disease-32.jpg
+3,E:\MedicalData\kagglechallenge\Dermnet\train/Bullous Disease Photos/dariers-disease-5.jpg
+3,E:\MedicalData\kagglechallenge\Dermnet\train/Bullous Disease Photos/dariers-disease-62.jpg
+3,E:\MedicalData\kagglechallenge\Dermnet\train/Bullous Disease Photos/dermatitis-herpetiformis-73.jpg
+3,E:\MedicalData\kagglechallenge\Dermnet\train/Bullous Disease Photos/dermatitis-herpetiformis-93.jpg
+3,E:\MedicalData\kagglechallenge\Dermnet\train/Bullous Disease Photos/diabetic-bullae-20.jpg
+3,E:\MedicalData\kagglechallenge\Dermnet\train/Bullous Disease Photos/epidermolysis-bullosa-13.jpg
+3,E:\MedicalData\kagglechallenge\Dermnet\train/Bullous Disease Photos/epidermolysis-bullosa-33.jpg
+3,E:\MedicalData\kagglechallenge\Dermnet\train/Bullous Disease Photos/epidermolysis-bullosa-37.jpg
+3,E:\MedicalData\kagglechallenge\Dermnet\train/Bullous Disease Photos/epidermolysis-bullosa-50.jpg
+3,E:\MedicalData\kagglechallenge\Dermnet\train/Bullous Disease Photos/pemphigus-foliaceous-1.jpg
+3,E:\MedicalData\kagglechallenge\Dermnet\train/Bullous Disease Photos/pemphigus-foliaceous-18.jpg
+3,E:\MedicalData\kagglechallenge\Dermnet\train/Bullous Disease Photos/pemphigus-foliaceous-6.jpg
+4,E:\MedicalData\kagglechallenge\Dermnet\train/Cellulitis Impetigo and other Bacterial Infections/Folliculitis-20.jpg
+4,E:\MedicalData\kagglechallenge\Dermnet\train/Cellulitis Impetigo and other Bacterial Infections/Folliculitis-7.jpg
+4,E:\MedicalData\kagglechallenge\Dermnet\train/Cellulitis Impetigo and other Bacterial Infections/impetigo-22.jpg
+4,E:\MedicalData\kagglechallenge\Dermnet\train/Cellulitis Impetigo and other Bacterial Infections/impetigo-52.jpg
+4,E:\MedicalData\kagglechallenge\Dermnet\train/Cellulitis Impetigo and other Bacterial Infections/impetigo-7.jpg
+4,E:\MedicalData\kagglechallenge\Dermnet\train/Cellulitis Impetigo and other Bacterial Infections/Leprosy-4.jpg
+4,E:\MedicalData\kagglechallenge\Dermnet\train/Cellulitis Impetigo and other Bacterial Infections/Pseudomonas-Folliculitis-11.jpg
+4,E:\MedicalData\kagglechallenge\Dermnet\train/Cellulitis Impetigo and other Bacterial Infections/Pseudomonas-Folliculitis-3.jpg
+4,E:\MedicalData\kagglechallenge\Dermnet\train/Cellulitis Impetigo and other Bacterial Infections/Pseudomonas-Folliculitis-6.jpg
+4,E:\MedicalData\kagglechallenge\Dermnet\train/Cellulitis Impetigo and other Bacterial Infections/Pseudomonas-Folliculitis-7.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/03DermatitisArm.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/chapped-fissured-feet-23.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/Dyshidrosis-38.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/Dyshidrosis-49.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/eczema-areola-10.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/eczema-areola-9.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/eczema-asteatotic-17.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/eczema-asteatotic-9.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/eczema-chronic-16.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/eczema-chronic-33.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/eczema-chronic-34.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/eczema-chronic-41.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/eczema-chronic-47.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/eczema-ears-6.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/eczema-fingertips-48.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/eczema-fingertips-5.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/eczema-fingertips-78.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/eczema-fingertips-9.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/eczema-foot-21.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/eczema-foot-9.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/eczema-hand-154.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/eczema-hand-163.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/eczema-hand-186.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/eczema-hand-93.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/eczema-leg-15.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/eczema-lids-1.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/eczema-nummular-161.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/eczema-nummular-167.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/eczema-nummular-193.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/eczema-subacute-105.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/eczema-subacute-17.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/eczema-subacute-40.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/eczema-subacute-44.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/eczema-subacute-6.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/eczema-subacute-64.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/eczema-subacute-69.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/eczema-subacute-97.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/eczema-trunk-generalized-1.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/eczema-trunk-generalized-8.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/eczema-vulva-3.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/heels-dry-cracked-6.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/iododerma-3.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/keratolysis-exfoliativa-15.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/keratolysis-exfoliativa-27.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/keratolysis-exfoliativa-31.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/lichen-simplex-chronicus-112.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/lichen-simplex-chronicus-119.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/lichen-simplex-chronicus-139.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/lichen-simplex-chronicus-149.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/neurotic-excoriations-15.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/notalgia-paraesthetica-4.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/pompholyx-23.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/prurigo-nodularis-1.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/stasis-dermatitis-103.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/stasis-dermatitis-150.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/stasis-dermatitis-158.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/stasis-dermatitis-176.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/stasis-dermatitis-177.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\train/Eczema Photos/stasis-dermatitis-83.jpg
+6,E:\MedicalData\kagglechallenge\Dermnet\train/Exanthems and Drug Eruptions/drug-eruption-photosensitivity-3.jpg
+6,E:\MedicalData\kagglechallenge\Dermnet\train/Exanthems and Drug Eruptions/drug-eruptions-101.jpg
+6,E:\MedicalData\kagglechallenge\Dermnet\train/Exanthems and Drug Eruptions/drug-eruptions-15.jpg
+6,E:\MedicalData\kagglechallenge\Dermnet\train/Exanthems and Drug Eruptions/drug-eruptions-18.jpg
+6,E:\MedicalData\kagglechallenge\Dermnet\train/Exanthems and Drug Eruptions/drug-eruptions-60.jpg
+6,E:\MedicalData\kagglechallenge\Dermnet\train/Exanthems and Drug Eruptions/drug-eruptions-74.jpg
+6,E:\MedicalData\kagglechallenge\Dermnet\train/Exanthems and Drug Eruptions/drug-eruptions-78.jpg
+6,E:\MedicalData\kagglechallenge\Dermnet\train/Exanthems and Drug Eruptions/drug-eruptions-91.jpg
+6,E:\MedicalData\kagglechallenge\Dermnet\train/Exanthems and Drug Eruptions/erythema-infectiosum-3.jpg
+6,E:\MedicalData\kagglechallenge\Dermnet\train/Exanthems and Drug Eruptions/erythema-infectiosum-30.jpg
+6,E:\MedicalData\kagglechallenge\Dermnet\train/Exanthems and Drug Eruptions/ExpoliativeIMG002-GP3.jpg
+6,E:\MedicalData\kagglechallenge\Dermnet\train/Exanthems and Drug Eruptions/fixed-drug-eruption-56.jpg
+6,E:\MedicalData\kagglechallenge\Dermnet\train/Exanthems and Drug Eruptions/gianotti-crosti-13.jpg
+6,E:\MedicalData\kagglechallenge\Dermnet\train/Exanthems and Drug Eruptions/gianotti-crosti-6.jpg
+6,E:\MedicalData\kagglechallenge\Dermnet\train/Exanthems and Drug Eruptions/viral-exanthems-104.jpg
+6,E:\MedicalData\kagglechallenge\Dermnet\train/Exanthems and Drug Eruptions/viral-exanthems-14.jpg
+6,E:\MedicalData\kagglechallenge\Dermnet\train/Exanthems and Drug Eruptions/viral-exanthems-18.jpg
+6,E:\MedicalData\kagglechallenge\Dermnet\train/Exanthems and Drug Eruptions/viral-exanthems-34.jpg
+6,E:\MedicalData\kagglechallenge\Dermnet\train/Exanthems and Drug Eruptions/viral-exanthems-43.jpg
+6,E:\MedicalData\kagglechallenge\Dermnet\train/Exanthems and Drug Eruptions/viral-exanthems-61.jpg
+6,E:\MedicalData\kagglechallenge\Dermnet\train/Exanthems and Drug Eruptions/viral-exanthems-69.jpg
+7,E:\MedicalData\kagglechallenge\Dermnet\train/Hair Loss Photos Alopecia and other Hair Diseases/acne-keloidalis-2.jpg
+7,E:\MedicalData\kagglechallenge\Dermnet\train/Hair Loss Photos Alopecia and other Hair Diseases/acne-keloidalis-21.jpg
+7,E:\MedicalData\kagglechallenge\Dermnet\train/Hair Loss Photos Alopecia and other Hair Diseases/acne-keloidalis-5.jpg
+7,E:\MedicalData\kagglechallenge\Dermnet\train/Hair Loss Photos Alopecia and other Hair Diseases/alopecia-areata-107.jpg
+7,E:\MedicalData\kagglechallenge\Dermnet\train/Hair Loss Photos Alopecia and other Hair Diseases/alopecia-areata-12.jpg
+7,E:\MedicalData\kagglechallenge\Dermnet\train/Hair Loss Photos Alopecia and other Hair Diseases/alopecia-areata-49.jpg
+7,E:\MedicalData\kagglechallenge\Dermnet\train/Hair Loss Photos Alopecia and other Hair Diseases/alopecia-areata-59.jpg
+7,E:\MedicalData\kagglechallenge\Dermnet\train/Hair Loss Photos Alopecia and other Hair Diseases/alopecia-areata-69.jpg
+7,E:\MedicalData\kagglechallenge\Dermnet\train/Hair Loss Photos Alopecia and other Hair Diseases/androgenic-alopecia-women-2.jpg
+7,E:\MedicalData\kagglechallenge\Dermnet\train/Hair Loss Photos Alopecia and other Hair Diseases/androgenic-alopecia-women-6.jpg
+7,E:\MedicalData\kagglechallenge\Dermnet\train/Hair Loss Photos Alopecia and other Hair Diseases/dissecting-cellulitis-5.jpg
+7,E:\MedicalData\kagglechallenge\Dermnet\train/Hair Loss Photos Alopecia and other Hair Diseases/ingrown-eyelash-2.jpg
+8,E:\MedicalData\kagglechallenge\Dermnet\train/Herpes HPV and other STDs Photos/AIDS-3.jpg
+8,E:\MedicalData\kagglechallenge\Dermnet\train/Herpes HPV and other STDs Photos/AIDS-44.jpg
+8,E:\MedicalData\kagglechallenge\Dermnet\train/Herpes HPV and other STDs Photos/AIDS-48.jpg
+8,E:\MedicalData\kagglechallenge\Dermnet\train/Herpes HPV and other STDs Photos/AIDS-57.jpg
+8,E:\MedicalData\kagglechallenge\Dermnet\train/Herpes HPV and other STDs Photos/chancroid-4.jpg
+8,E:\MedicalData\kagglechallenge\Dermnet\train/Herpes HPV and other STDs Photos/genital-herpes-simplex-8.jpg
+8,E:\MedicalData\kagglechallenge\Dermnet\train/Herpes HPV and other STDs Photos/genital-warts-103.jpg
+8,E:\MedicalData\kagglechallenge\Dermnet\train/Herpes HPV and other STDs Photos/genital-warts-107.jpg
+8,E:\MedicalData\kagglechallenge\Dermnet\train/Herpes HPV and other STDs Photos/genital-warts-119.jpg
+8,E:\MedicalData\kagglechallenge\Dermnet\train/Herpes HPV and other STDs Photos/genital-warts-130.jpg
+8,E:\MedicalData\kagglechallenge\Dermnet\train/Herpes HPV and other STDs Photos/genital-warts-75.jpg
+8,E:\MedicalData\kagglechallenge\Dermnet\train/Herpes HPV and other STDs Photos/genital-warts-87.jpg
+8,E:\MedicalData\kagglechallenge\Dermnet\train/Herpes HPV and other STDs Photos/gonorrhea-1.jpg
+8,E:\MedicalData\kagglechallenge\Dermnet\train/Herpes HPV and other STDs Photos/granuloma-inguinale-1.jpg
+8,E:\MedicalData\kagglechallenge\Dermnet\train/Herpes HPV and other STDs Photos/herpes-type-2-primary-35.jpg
+8,E:\MedicalData\kagglechallenge\Dermnet\train/Herpes HPV and other STDs Photos/herpes-type-2-primary-43.jpg
+8,E:\MedicalData\kagglechallenge\Dermnet\train/Herpes HPV and other STDs Photos/herpes-type-2-primary-54.jpg
+8,E:\MedicalData\kagglechallenge\Dermnet\train/Herpes HPV and other STDs Photos/herpes-type-2-recurrent-27.jpg
+8,E:\MedicalData\kagglechallenge\Dermnet\train/Herpes HPV and other STDs Photos/herpes-type-2-recurrent-35.jpg
+8,E:\MedicalData\kagglechallenge\Dermnet\train/Herpes HPV and other STDs Photos/herpes-type-2-recurrent-39.jpg
+8,E:\MedicalData\kagglechallenge\Dermnet\train/Herpes HPV and other STDs Photos/lymphogranuloma-venereum-2.jpg
+8,E:\MedicalData\kagglechallenge\Dermnet\train/Herpes HPV and other STDs Photos/molluscum-contagiosum-105.jpg
+8,E:\MedicalData\kagglechallenge\Dermnet\train/Herpes HPV and other STDs Photos/molluscum-contagiosum-129.jpg
+8,E:\MedicalData\kagglechallenge\Dermnet\train/Herpes HPV and other STDs Photos/molluscum-contagiosum-157.jpg
+8,E:\MedicalData\kagglechallenge\Dermnet\train/Herpes HPV and other STDs Photos/molluscum-contagiosum-23.jpg
+8,E:\MedicalData\kagglechallenge\Dermnet\train/Herpes HPV and other STDs Photos/molluscum-contagiosum-25.jpg
+8,E:\MedicalData\kagglechallenge\Dermnet\train/Herpes HPV and other STDs Photos/molluscum-contagiosum-34.jpg
+8,E:\MedicalData\kagglechallenge\Dermnet\train/Herpes HPV and other STDs Photos/syphilis-14.jpg
+9,E:\MedicalData\kagglechallenge\Dermnet\train/Light Diseases and Disorders of Pigmentation/erythema-ab-igne-13.jpg
+9,E:\MedicalData\kagglechallenge\Dermnet\train/Light Diseases and Disorders of Pigmentation/hydroa-vacciniforme-5.jpg
+9,E:\MedicalData\kagglechallenge\Dermnet\train/Light Diseases and Disorders of Pigmentation/lentigo-adults-41.jpg
+9,E:\MedicalData\kagglechallenge\Dermnet\train/Light Diseases and Disorders of Pigmentation/melasma-13.jpg
+9,E:\MedicalData\kagglechallenge\Dermnet\train/Light Diseases and Disorders of Pigmentation/milia-6.jpg
+9,E:\MedicalData\kagglechallenge\Dermnet\train/Light Diseases and Disorders of Pigmentation/phototoxic-reactions-1.jpg
+9,E:\MedicalData\kagglechallenge\Dermnet\train/Light Diseases and Disorders of Pigmentation/phototoxic-reactions-15.jpg
+9,E:\MedicalData\kagglechallenge\Dermnet\train/Light Diseases and Disorders of Pigmentation/phototoxic-reactions-24.jpg
+9,E:\MedicalData\kagglechallenge\Dermnet\train/Light Diseases and Disorders of Pigmentation/phototoxic-reactions-3.jpg
+9,E:\MedicalData\kagglechallenge\Dermnet\train/Light Diseases and Disorders of Pigmentation/phototoxic-reactions-31.jpg
+9,E:\MedicalData\kagglechallenge\Dermnet\train/Light Diseases and Disorders of Pigmentation/phototoxic-reactions-35.jpg
+9,E:\MedicalData\kagglechallenge\Dermnet\train/Light Diseases and Disorders of Pigmentation/phototoxic-reactions-47.jpg
+9,E:\MedicalData\kagglechallenge\Dermnet\train/Light Diseases and Disorders of Pigmentation/phototoxic-reactions-53.jpg
+9,E:\MedicalData\kagglechallenge\Dermnet\train/Light Diseases and Disorders of Pigmentation/phototoxic-reactions-95.jpg
+9,E:\MedicalData\kagglechallenge\Dermnet\train/Light Diseases and Disorders of Pigmentation/porphyrias-12.jpg
+9,E:\MedicalData\kagglechallenge\Dermnet\train/Light Diseases and Disorders of Pigmentation/porphyrias-24.jpg
+9,E:\MedicalData\kagglechallenge\Dermnet\train/Light Diseases and Disorders of Pigmentation/porphyrias-71.jpg
+9,E:\MedicalData\kagglechallenge\Dermnet\train/Light Diseases and Disorders of Pigmentation/radiation-dermatitis-3.jpg
+9,E:\MedicalData\kagglechallenge\Dermnet\train/Light Diseases and Disorders of Pigmentation/sun-damaged-skin-104.jpg
+9,E:\MedicalData\kagglechallenge\Dermnet\train/Light Diseases and Disorders of Pigmentation/sun-damaged-skin-32.jpg
+9,E:\MedicalData\kagglechallenge\Dermnet\train/Light Diseases and Disorders of Pigmentation/sun-damaged-skin-43.jpg
+9,E:\MedicalData\kagglechallenge\Dermnet\train/Light Diseases and Disorders of Pigmentation/sun-damaged-skin-83.jpg
+9,E:\MedicalData\kagglechallenge\Dermnet\train/Light Diseases and Disorders of Pigmentation/sun-damaged-skin-9.jpg
+9,E:\MedicalData\kagglechallenge\Dermnet\train/Light Diseases and Disorders of Pigmentation/vitiligo-10.jpg
+9,E:\MedicalData\kagglechallenge\Dermnet\train/Light Diseases and Disorders of Pigmentation/vitiligo-25.jpg
+9,E:\MedicalData\kagglechallenge\Dermnet\train/Light Diseases and Disorders of Pigmentation/vitiligo-31.jpg
+9,E:\MedicalData\kagglechallenge\Dermnet\train/Light Diseases and Disorders of Pigmentation/vitiligo-32.jpg
+10,E:\MedicalData\kagglechallenge\Dermnet\train/Lupus and other Connective Tissue diseases/chilblains-perniosis-11.jpg
+10,E:\MedicalData\kagglechallenge\Dermnet\train/Lupus and other Connective Tissue diseases/chilblains-perniosis-38.jpg
+10,E:\MedicalData\kagglechallenge\Dermnet\train/Lupus and other Connective Tissue diseases/crest-syndrome-46.jpg
+10,E:\MedicalData\kagglechallenge\Dermnet\train/Lupus and other Connective Tissue diseases/dermatomyositis-36.jpg
+10,E:\MedicalData\kagglechallenge\Dermnet\train/Lupus and other Connective Tissue diseases/lupus-acute-14.jpg
+10,E:\MedicalData\kagglechallenge\Dermnet\train/Lupus and other Connective Tissue diseases/lupus-acute-39.jpg
+10,E:\MedicalData\kagglechallenge\Dermnet\train/Lupus and other Connective Tissue diseases/lupus-acute-44.jpg
+10,E:\MedicalData\kagglechallenge\Dermnet\train/Lupus and other Connective Tissue diseases/lupus-acute-56.jpg
+10,E:\MedicalData\kagglechallenge\Dermnet\train/Lupus and other Connective Tissue diseases/lupus-acute-58.jpg
+10,E:\MedicalData\kagglechallenge\Dermnet\train/Lupus and other Connective Tissue diseases/lupus-chronic-cutaneous-103.jpg
+10,E:\MedicalData\kagglechallenge\Dermnet\train/Lupus and other Connective Tissue diseases/lupus-chronic-cutaneous-28.jpg
+10,E:\MedicalData\kagglechallenge\Dermnet\train/Lupus and other Connective Tissue diseases/lupus-chronic-cutaneous-83.jpg
+10,E:\MedicalData\kagglechallenge\Dermnet\train/Lupus and other Connective Tissue diseases/lupus-subacute-8.jpg
+10,E:\MedicalData\kagglechallenge\Dermnet\train/Lupus and other Connective Tissue diseases/morphea-11.jpg
+10,E:\MedicalData\kagglechallenge\Dermnet\train/Lupus and other Connective Tissue diseases/morphea-29.jpg
+10,E:\MedicalData\kagglechallenge\Dermnet\train/Lupus and other Connective Tissue diseases/morphea-4.jpg
+10,E:\MedicalData\kagglechallenge\Dermnet\train/Lupus and other Connective Tissue diseases/morphea-51.jpg
+10,E:\MedicalData\kagglechallenge\Dermnet\train/Lupus and other Connective Tissue diseases/morphea-71.jpg
+10,E:\MedicalData\kagglechallenge\Dermnet\train/Lupus and other Connective Tissue diseases/morphea-88.jpg
+10,E:\MedicalData\kagglechallenge\Dermnet\train/Lupus and other Connective Tissue diseases/morphea-90.jpg
+10,E:\MedicalData\kagglechallenge\Dermnet\train/Lupus and other Connective Tissue diseases/mucinosis-1.jpg
+10,E:\MedicalData\kagglechallenge\Dermnet\train/Lupus and other Connective Tissue diseases/scleroderma-19.jpg
+10,E:\MedicalData\kagglechallenge\Dermnet\train/Lupus and other Connective Tissue diseases/scleroderma-8.jpg
+11,E:\MedicalData\kagglechallenge\Dermnet\train/Melanoma Skin Cancer Nevi and Moles/atypical-nevi-15.jpg
+11,E:\MedicalData\kagglechallenge\Dermnet\train/Melanoma Skin Cancer Nevi and Moles/atypical-nevi-34.jpg
+11,E:\MedicalData\kagglechallenge\Dermnet\train/Melanoma Skin Cancer Nevi and Moles/atypical-nevi-dermoscopy-69.jpg
+11,E:\MedicalData\kagglechallenge\Dermnet\train/Melanoma Skin Cancer Nevi and Moles/atypical-nevi-dermoscopy-73.jpg
+11,E:\MedicalData\kagglechallenge\Dermnet\train/Melanoma Skin Cancer Nevi and Moles/atypical-nevi-dermoscopy-84.jpg
+11,E:\MedicalData\kagglechallenge\Dermnet\train/Melanoma Skin Cancer Nevi and Moles/atypical-nevi-dermoscopy-85.jpg
+11,E:\MedicalData\kagglechallenge\Dermnet\train/Melanoma Skin Cancer Nevi and Moles/atypical-nevi-dermoscopy-99.jpg
+11,E:\MedicalData\kagglechallenge\Dermnet\train/Melanoma Skin Cancer Nevi and Moles/congenital-nevus-49.jpg
+11,E:\MedicalData\kagglechallenge\Dermnet\train/Melanoma Skin Cancer Nevi and Moles/malignant-melanoma-107.jpg
+11,E:\MedicalData\kagglechallenge\Dermnet\train/Melanoma Skin Cancer Nevi and Moles/malignant-melanoma-116.jpg
+11,E:\MedicalData\kagglechallenge\Dermnet\train/Melanoma Skin Cancer Nevi and Moles/malignant-melanoma-142.jpg
+11,E:\MedicalData\kagglechallenge\Dermnet\train/Melanoma Skin Cancer Nevi and Moles/malignant-melanoma-145.jpg
+11,E:\MedicalData\kagglechallenge\Dermnet\train/Melanoma Skin Cancer Nevi and Moles/malignant-melanoma-147.jpg
+11,E:\MedicalData\kagglechallenge\Dermnet\train/Melanoma Skin Cancer Nevi and Moles/malignant-melanoma-159.jpg
+11,E:\MedicalData\kagglechallenge\Dermnet\train/Melanoma Skin Cancer Nevi and Moles/malignant-melanoma-2.jpg
+11,E:\MedicalData\kagglechallenge\Dermnet\train/Melanoma Skin Cancer Nevi and Moles/melanocytic-nevi-19.jpg
+11,E:\MedicalData\kagglechallenge\Dermnet\train/Melanoma Skin Cancer Nevi and Moles/melanocytic-nevi-23.jpg
+11,E:\MedicalData\kagglechallenge\Dermnet\train/Melanoma Skin Cancer Nevi and Moles/melanocytic-nevi-34.jpg
+11,E:\MedicalData\kagglechallenge\Dermnet\train/Melanoma Skin Cancer Nevi and Moles/melanocytic-nevi-97.jpg
+11,E:\MedicalData\kagglechallenge\Dermnet\train/Melanoma Skin Cancer Nevi and Moles/nevus-spilus-17.jpg
+11,E:\MedicalData\kagglechallenge\Dermnet\train/Melanoma Skin Cancer Nevi and Moles/nevus-spilus-31.jpg
+11,E:\MedicalData\kagglechallenge\Dermnet\train/Melanoma Skin Cancer Nevi and Moles/nevus-spilus-4.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/alopecia-areata-1.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/alopecia-areata-101.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/alopecia-areata-105.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/alopecia-areata-18.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/alopecia-areata-30.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/alopecia-areata-43.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/alopecia-areata-79.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/biting-excoriation-1.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/biting-excoriation-7.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/chronic-paronychia-55.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/clubbing-10.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/clubbing-2.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/distal-subungual-onychomycosis-137.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/distal-subungual-onychomycosis-165.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/exostosis-1.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/fissure-2.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/fissure-3.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/habit-tic-deformity-32.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/habit-tic-deformity-48.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/ingrown-nail-14.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/koilonychia-134.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/koilonychia-156.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/lichen-planus-12.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/lichen-planus-17.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/lichen-planus-195.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/mucous-cyst-14.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/mucous-cyst-34.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/mucous-cyst-47.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/mucous-cyst-66.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/mucous-cyst-8.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/onychogryphosis-9.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/onycholysis-49.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/onycholysis-62.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/periungual-epidermal-cyst-1.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/pigmented-bands-7.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/pincer-nails-12.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/psoriasis-107.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/psoriasis-120.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/psoriasis-122.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/psoriasis-135.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/psoriasis-159.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/psoriasis-16.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/psoriasis-17.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/psoriasis-39.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/psoriasis-98.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/ridging-beading-12.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/subungual-hematoma-2.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/trauma-27.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/trauma-8.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/twenty-nail-dystrophy-7.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\train/Nail Fungus and other Nail Disease/white-superficial-onychomycosis-6.jpg
+13,E:\MedicalData\kagglechallenge\Dermnet\train/Poison Ivy Photos and other Contact Dermatitis/allergic-contact-dermatitis-103.jpg
+13,E:\MedicalData\kagglechallenge\Dermnet\train/Poison Ivy Photos and other Contact Dermatitis/allergic-contact-dermatitis-149.jpg
+13,E:\MedicalData\kagglechallenge\Dermnet\train/Poison Ivy Photos and other Contact Dermatitis/allergic-contact-dermatitis-161.jpg
+13,E:\MedicalData\kagglechallenge\Dermnet\train/Poison Ivy Photos and other Contact Dermatitis/allergic-contact-dermatitis-164.jpg
+13,E:\MedicalData\kagglechallenge\Dermnet\train/Poison Ivy Photos and other Contact Dermatitis/allergic-contact-dermatitis-19.jpg
+13,E:\MedicalData\kagglechallenge\Dermnet\train/Poison Ivy Photos and other Contact Dermatitis/allergic-contact-dermatitis-90.jpg
+13,E:\MedicalData\kagglechallenge\Dermnet\train/Poison Ivy Photos and other Contact Dermatitis/allergic-contact-dermatitis-98.jpg
+13,E:\MedicalData\kagglechallenge\Dermnet\train/Poison Ivy Photos and other Contact Dermatitis/contact-dermatitis-leg-ulcers-4.jpg
+13,E:\MedicalData\kagglechallenge\Dermnet\train/Poison Ivy Photos and other Contact Dermatitis/irritant-contact-dermatitis-4.jpg
+13,E:\MedicalData\kagglechallenge\Dermnet\train/Poison Ivy Photos and other Contact Dermatitis/patch-testing-57.jpg
+13,E:\MedicalData\kagglechallenge\Dermnet\train/Poison Ivy Photos and other Contact Dermatitis/patch-testing-8.jpg
+13,E:\MedicalData\kagglechallenge\Dermnet\train/Poison Ivy Photos and other Contact Dermatitis/rhus-dermatitis-34.jpg
+13,E:\MedicalData\kagglechallenge\Dermnet\train/Poison Ivy Photos and other Contact Dermatitis/rhus-dermatitis-50.jpg
+13,E:\MedicalData\kagglechallenge\Dermnet\train/Poison Ivy Photos and other Contact Dermatitis/rhus-dermatitis-69.jpg
+13,E:\MedicalData\kagglechallenge\Dermnet\train/Poison Ivy Photos and other Contact Dermatitis/rhus-dermatitis-84.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/08biteLine1101052.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/08LSASkin.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/08SebDermOK1021.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/Lichen-Nitidus-17.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/lichen-planus-123.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/lichen-planus-124.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/lichen-planus-15.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/lichen-planus-210.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/Lichen-Planus-Oral-4.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/Lichen-Planus-Palm-Soles-6.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/Lichen-Planus-Palm-Soles-8.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/Lichen-Planus-Penis-3.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/lichen-planus-vaginal-14.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/Lichen-Sclerosis-Vulva-9.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/Lichen-Sclerosus-Skin-82.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/Lichen-Sclerosus-Skin-94.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/Lichen-Sclerosus-Skin-98.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/Pityriasis-Lichenoides-16.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/Pityriasis-Lichenoides-19.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/Pityriasis-Lichenoides-46.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/pityriasis-rosea-10.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/pityriasis-rosea-130.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/pityriasis-rosea-16.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/pityriasis-rosea-160.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/pityriasis-rosea-184.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/pityriasis-rosea-88.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/pityriasis-rubra-pilaris-23.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/pityriasis-rubra-pilaris-57.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/Psoriasis-Anus-12.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/Psoriasis-Anus-2.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/Psoriasis-Chronic-Plaque-156.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/Psoriasis-Chronic-Plaque-169.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/Psoriasis-Chronic-Plaque-172.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/psoriasis-erythrodermic-7.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/psoriasis-erythrodermic-9.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/Psoriasis-Guttate-101.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/Psoriasis-Guttate-106.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/Psoriasis-Guttate-16.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/Psoriasis-Guttate-43.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/Psoriasis-Hand-24.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/Psoriasis-Hand-29.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/Psoriasis-Hand-33.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/Psoriasis-Histology-16.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/Psoriasis-Histology-6.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/Psoriasis-Interferon-Injection-0823042.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/Psoriasis-nails-1.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/psoriasis-palms-soles-124.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/psoriasis-palms-soles-161.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/psoriasis-palms-soles-162.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/psoriasis-palms-soles-179.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/psoriasis-pustular-generalized-32.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/psoriasis-pustular-generalized-39.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/psoriasis-pustular-generalized-48.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/psoriasis-pustular-generalized-8.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/psoriasis-scalp-41.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/psoriasis-scalp-85.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/Psoriasis-treatment-7.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/Psoriasis-Trunk-0525041.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/reiter-syndrome-10.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/seborrheic-dermatitis-102.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/seborrheic-dermatitis-110.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/seborrheic-dermatitis-126.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\train/Psoriasis pictures Lichen Planus and related diseases/seborrheic-dermatitis-150.jpg
+15,E:\MedicalData\kagglechallenge\Dermnet\train/Scabies Lyme Disease and other Infestations and Bites/biting-insects-22.jpg
+15,E:\MedicalData\kagglechallenge\Dermnet\train/Scabies Lyme Disease and other Infestations and Bites/biting-insects-25.jpg
+15,E:\MedicalData\kagglechallenge\Dermnet\train/Scabies Lyme Disease and other Infestations and Bites/biting-insects-35.jpg
+15,E:\MedicalData\kagglechallenge\Dermnet\train/Scabies Lyme Disease and other Infestations and Bites/biting-insects-48.jpg
+15,E:\MedicalData\kagglechallenge\Dermnet\train/Scabies Lyme Disease and other Infestations and Bites/biting-insects-5.jpg
+15,E:\MedicalData\kagglechallenge\Dermnet\train/Scabies Lyme Disease and other Infestations and Bites/biting-insects-8.jpg
+15,E:\MedicalData\kagglechallenge\Dermnet\train/Scabies Lyme Disease and other Infestations and Bites/Coral-Poisoning-1.jpg
+15,E:\MedicalData\kagglechallenge\Dermnet\train/Scabies Lyme Disease and other Infestations and Bites/cutaneous-Larva-Migrans-31.jpg
+15,E:\MedicalData\kagglechallenge\Dermnet\train/Scabies Lyme Disease and other Infestations and Bites/cutaneous-Larva-Migrans-52.jpg
+15,E:\MedicalData\kagglechallenge\Dermnet\train/Scabies Lyme Disease and other Infestations and Bites/cutaneous-Larva-Migrans-53.jpg
+15,E:\MedicalData\kagglechallenge\Dermnet\train/Scabies Lyme Disease and other Infestations and Bites/jelly-fish-sting.jpg
+15,E:\MedicalData\kagglechallenge\Dermnet\train/Scabies Lyme Disease and other Infestations and Bites/jelly-fish-sting8.jpg
+15,E:\MedicalData\kagglechallenge\Dermnet\train/Scabies Lyme Disease and other Infestations and Bites/pubic-lice-41.jpg
+15,E:\MedicalData\kagglechallenge\Dermnet\train/Scabies Lyme Disease and other Infestations and Bites/pubic-lice-46.jpg
+15,E:\MedicalData\kagglechallenge\Dermnet\train/Scabies Lyme Disease and other Infestations and Bites/pubic-lice-49.jpg
+15,E:\MedicalData\kagglechallenge\Dermnet\train/Scabies Lyme Disease and other Infestations and Bites/scabies-101.jpg
+15,E:\MedicalData\kagglechallenge\Dermnet\train/Scabies Lyme Disease and other Infestations and Bites/scabies-108.jpg
+15,E:\MedicalData\kagglechallenge\Dermnet\train/Scabies Lyme Disease and other Infestations and Bites/scabies-111.jpg
+15,E:\MedicalData\kagglechallenge\Dermnet\train/Scabies Lyme Disease and other Infestations and Bites/scabies-122.jpg
+15,E:\MedicalData\kagglechallenge\Dermnet\train/Scabies Lyme Disease and other Infestations and Bites/scabies-14.jpg
+15,E:\MedicalData\kagglechallenge\Dermnet\train/Scabies Lyme Disease and other Infestations and Bites/scabies-140.jpg
+15,E:\MedicalData\kagglechallenge\Dermnet\train/Scabies Lyme Disease and other Infestations and Bites/scabies-160.jpg
+15,E:\MedicalData\kagglechallenge\Dermnet\train/Scabies Lyme Disease and other Infestations and Bites/scabies-86.jpg
+15,E:\MedicalData\kagglechallenge\Dermnet\train/Scabies Lyme Disease and other Infestations and Bites/spider-bite-27.jpg
+15,E:\MedicalData\kagglechallenge\Dermnet\train/Scabies Lyme Disease and other Infestations and Bites/spider-bite-32.jpg
+15,E:\MedicalData\kagglechallenge\Dermnet\train/Scabies Lyme Disease and other Infestations and Bites/spider-bite-35.jpg
+15,E:\MedicalData\kagglechallenge\Dermnet\train/Scabies Lyme Disease and other Infestations and Bites/stinging-insects-2.jpg
+15,E:\MedicalData\kagglechallenge\Dermnet\train/Scabies Lyme Disease and other Infestations and Bites/tick-bite-20.jpg
+15,E:\MedicalData\kagglechallenge\Dermnet\train/Scabies Lyme Disease and other Infestations and Bites/tick-bite-45.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/accessory-nipple-5.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/chondrodermatitis-nodularis-21.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/chondrodermatitis-nodularis-23.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/cylindroma-15.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/dermatofibroma-12.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/dermatofibroma-46.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/dermatofibroma-70.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/epidermal-cyst-133.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/epidermal-cyst-152.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/epidermal-cyst-161.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/epidermal-cyst-170.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/epidermal-cyst-185.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/epidermal-cyst-91.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/epidermal-cyst-97.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/epidermal-nevus-56.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/epidermal-nevus-64.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/granuloma-faciale-3.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/hydrocystoma-1.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/keloids-29.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/keloids-31.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/keloids-46.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/keratoacanthoma-123.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/keratoacanthoma-13.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/keratoacanthoma-150.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/keratoacanthoma-170.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/keratoacanthoma-90.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/kyrle-disease-8.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/melanoma-mimic-18.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/neurofibromas-3.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/nevus-sebaceous-10.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/nevus-sebaceous-21.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/nevus-sebaceous-49.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/nevus-sebaceous-53.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/nevus-sebaceous-62.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/pilar-cyst-30.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/pilar-cyst-41.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/pinkus-tumor-1.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/porokeratosis-57.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/porokeratosis-70.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/sebaceous-hyperplasia-99.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/seborrheic-keratoses-ruff-103.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/seborrheic-keratoses-ruff-120.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/seborrheic-keratoses-ruff-128.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/seborrheic-keratoses-ruff-176.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/seborrheic-keratoses-smooth-118.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/seborrheic-keratoses-smooth-2.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/seborrheic-keratoses-smooth-45.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/seborrheic-keratoses-smooth-51.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/seborrheic-keratoses-smooth-53.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/seborrheic-keratoses-smooth-91.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/seborrheic-keratosis-irritated-123.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/seborrheic-keratosis-irritated-14.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/seborrheic-keratosis-irritated-15.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/seborrheic-keratosis-irritated-17.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/seborrheic-keratosis-irritated-36.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/seborrheic-keratosis-irritated-88.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/skin-tags-polyps-145.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/skin-tags-polyps-148.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/skin-tags-polyps-18.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/skin-tags-polyps-58.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/skin-tags-polyps-77.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/skin-tags-polyps-83.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/skin-tags-polyps-99.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/stucco-keratoses-24.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/supernumerary-digits-1.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/syringoma-20.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\train/Seborrheic Keratoses and other Benign Tumors/syringoma-25.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\train/Systemic Disease/26birtHogDube112204.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\train/Systemic Disease/26birtHogDube1122042.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\train/Systemic Disease/acanthosis-nigricans-13.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\train/Systemic Disease/acanthosis-nigricans-29.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\train/Systemic Disease/acanthosis-nigricans-49.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\train/Systemic Disease/cowden-disease-3.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\train/Systemic Disease/cowden-disease-7.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\train/Systemic Disease/Eruptive-Xanthoma-2.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\train/Systemic Disease/Eruptive-Xanthoma-5.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\train/Systemic Disease/gout-8.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\train/Systemic Disease/granuloma-annulare-101.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\train/Systemic Disease/granuloma-annulare-102.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\train/Systemic Disease/granuloma-annulare-120.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\train/Systemic Disease/granuloma-annulare-159.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\train/Systemic Disease/granuloma-annulare-18.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\train/Systemic Disease/lichen-myxedematosus-3.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\train/Systemic Disease/necrobiosis-lipoidica-29.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\train/Systemic Disease/necrobiosis-lipoidica-37.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\train/Systemic Disease/necrobiosis-lipoidica-4.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\train/Systemic Disease/necrobiosis-lipoidica-5.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\train/Systemic Disease/neurofibromatosis-35.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\train/Systemic Disease/neurofibromatosis-44.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\train/Systemic Disease/nevoxanthoendothelioma-10.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\train/Systemic Disease/Relapsing-Polychondritis-4.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\train/Systemic Disease/stria-2.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\train/Systemic Disease/trichoepithelioma-2.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\train/Systemic Disease/tuberous-sclerosis-123.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\train/Systemic Disease/xanthomas-13.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\train/Systemic Disease/xanthomas-39.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\train/Systemic Disease/xanthomas-52.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/03ContactDerm040127.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/13CandidaAxillae020210.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/13IntertirgoRxSteroids090102.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/13tineaFeet0523051.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/candida-groin-13.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/candida-penis-26.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/candidiasis-large-skin-folds-103.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/candidiasis-large-skin-folds-118.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/candidiasis-large-skin-folds-15.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/candidiasis-large-skin-folds-158.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/candidiasis-large-skin-folds-167.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/candidiasis-large-skin-folds-181.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/candidiasis-large-skin-folds-182.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/candidiasis-large-skin-folds-89.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/candidiasis-large-skin-folds-95.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/erosio-interdigitalis-blastomycetica-5.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/erythrasma-15.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/erythrasma-8.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/intertrigo-22.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/intertrigo-67.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/intertrigo-88.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/majocchi-granuloma-1.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/majocchi-granuloma-3.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/mycetoma-3.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/perleche-25.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/perleche-37.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/perleche-46.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/perleche-62.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/pitted-keratolysis-4.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-beard-9.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-body-120.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-body-126.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-body-147.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-body-191.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-body-193.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-body-81.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-body-92.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-body-93.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-face-50.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-foot-dorsum-32.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-foot-plantar-14.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-foot-webs-33.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-foot-webs-71.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-groin-1.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-groin-11.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-groin-117.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-groin-122.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-groin-126.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-groin-16.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-groin-27.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-groin-51.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-groin-61.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-groin-80.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-hand-dorsum-14.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-hand-dorsum-38.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-hand-dorsum-48.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-hand-dorsum-54.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-hand-dorsum-60.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-incognito-26.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-laboratory-55.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-palm-25.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-primary-lesion-30.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-primary-lesion-42.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-scalp-32.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-scalp-67.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-versicolor-10.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-versicolor-113.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-versicolor-132.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-versicolor-139.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-versicolor-151.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-versicolor-156.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-versicolor-173.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-versicolor-175.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\train/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-versicolor-194.jpg
+19,E:\MedicalData\kagglechallenge\Dermnet\train/Urticaria Hives/cholinergic-uriticaria-7.jpg
+19,E:\MedicalData\kagglechallenge\Dermnet\train/Urticaria Hives/cold-urticaria-2.jpg
+19,E:\MedicalData\kagglechallenge\Dermnet\train/Urticaria Hives/erythema-annulare-centrifugum-11.jpg
+19,E:\MedicalData\kagglechallenge\Dermnet\train/Urticaria Hives/erythema-annulare-centrifugum-12.jpg
+19,E:\MedicalData\kagglechallenge\Dermnet\train/Urticaria Hives/hives-Urticaria-Acute-100.jpg
+19,E:\MedicalData\kagglechallenge\Dermnet\train/Urticaria Hives/hives-Urticaria-Acute-14.jpg
+19,E:\MedicalData\kagglechallenge\Dermnet\train/Urticaria Hives/hives-Urticaria-Acute-50.jpg
+19,E:\MedicalData\kagglechallenge\Dermnet\train/Urticaria Hives/hives-Urticaria-Acute-51.jpg
+19,E:\MedicalData\kagglechallenge\Dermnet\train/Urticaria Hives/hives-Urticaria-Acute-84.jpg
+19,E:\MedicalData\kagglechallenge\Dermnet\train/Urticaria Hives/hives-Urticaria-Acute-85.jpg
+19,E:\MedicalData\kagglechallenge\Dermnet\train/Urticaria Hives/PUPPP-12.jpg
+19,E:\MedicalData\kagglechallenge\Dermnet\train/Urticaria Hives/PUPPP-16.jpg
+19,E:\MedicalData\kagglechallenge\Dermnet\train/Urticaria Hives/PUPPP-28.jpg
+20,E:\MedicalData\kagglechallenge\Dermnet\train/Vascular Tumors/angiokeratomas-3.jpg
+20,E:\MedicalData\kagglechallenge\Dermnet\train/Vascular Tumors/angiokeratomas-40.jpg
+20,E:\MedicalData\kagglechallenge\Dermnet\train/Vascular Tumors/cherry-angioma-12.jpg
+20,E:\MedicalData\kagglechallenge\Dermnet\train/Vascular Tumors/cherry-angioma-29.jpg
+20,E:\MedicalData\kagglechallenge\Dermnet\train/Vascular Tumors/cherry-angioma-9.jpg
+20,E:\MedicalData\kagglechallenge\Dermnet\train/Vascular Tumors/hemangioma-32.jpg
+20,E:\MedicalData\kagglechallenge\Dermnet\train/Vascular Tumors/hemangioma-38.jpg
+20,E:\MedicalData\kagglechallenge\Dermnet\train/Vascular Tumors/hemangioma-43.jpg
+20,E:\MedicalData\kagglechallenge\Dermnet\train/Vascular Tumors/hemangioma-55.jpg
+20,E:\MedicalData\kagglechallenge\Dermnet\train/Vascular Tumors/hemangioma-876.jpg
+20,E:\MedicalData\kagglechallenge\Dermnet\train/Vascular Tumors/hemangioma-infancy-17.jpg
+20,E:\MedicalData\kagglechallenge\Dermnet\train/Vascular Tumors/hemangioma-infancy-18.jpg
+20,E:\MedicalData\kagglechallenge\Dermnet\train/Vascular Tumors/hemangioma-traumatized-2.jpg
+20,E:\MedicalData\kagglechallenge\Dermnet\train/Vascular Tumors/lymphangioma-circumscriptum-16.jpg
+20,E:\MedicalData\kagglechallenge\Dermnet\train/Vascular Tumors/lymphangioma-circumscriptum-6.jpg
+20,E:\MedicalData\kagglechallenge\Dermnet\train/Vascular Tumors/pyogenic-granuloma-101.jpg
+20,E:\MedicalData\kagglechallenge\Dermnet\train/Vascular Tumors/pyogenic-granuloma-31.jpg
+20,E:\MedicalData\kagglechallenge\Dermnet\train/Vascular Tumors/telangiectasias-43.jpg
+20,E:\MedicalData\kagglechallenge\Dermnet\train/Vascular Tumors/telangiectasias-50.jpg
+20,E:\MedicalData\kagglechallenge\Dermnet\train/Vascular Tumors/venous-lake-34.jpg
+20,E:\MedicalData\kagglechallenge\Dermnet\train/Vascular Tumors/venous-lake-47.jpg
+21,E:\MedicalData\kagglechallenge\Dermnet\train/Vasculitis Photos/erythema-multiforme-10.jpg
+21,E:\MedicalData\kagglechallenge\Dermnet\train/Vasculitis Photos/erythema-multiforme-101.jpg
+21,E:\MedicalData\kagglechallenge\Dermnet\train/Vasculitis Photos/erythema-multiforme-142.jpg
+21,E:\MedicalData\kagglechallenge\Dermnet\train/Vasculitis Photos/erythema-multiforme-3.jpg
+21,E:\MedicalData\kagglechallenge\Dermnet\train/Vasculitis Photos/erythema-multiforme-94.jpg
+21,E:\MedicalData\kagglechallenge\Dermnet\train/Vasculitis Photos/erythema-nodosum-32.jpg
+21,E:\MedicalData\kagglechallenge\Dermnet\train/Vasculitis Photos/erythema-nodosum-38.jpg
+21,E:\MedicalData\kagglechallenge\Dermnet\train/Vasculitis Photos/erythema-nodosum-4.jpg
+21,E:\MedicalData\kagglechallenge\Dermnet\train/Vasculitis Photos/erythema-nodosum-42.jpg
+21,E:\MedicalData\kagglechallenge\Dermnet\train/Vasculitis Photos/polyarteritis-nodosa-1.jpg
+21,E:\MedicalData\kagglechallenge\Dermnet\train/Vasculitis Photos/pyoderma-gangrenosum-10.jpg
+21,E:\MedicalData\kagglechallenge\Dermnet\train/Vasculitis Photos/pyoderma-gangrenosum-11.jpg
+21,E:\MedicalData\kagglechallenge\Dermnet\train/Vasculitis Photos/schamberg-disease-23.jpg
+21,E:\MedicalData\kagglechallenge\Dermnet\train/Vasculitis Photos/schamberg-disease-35.jpg
+21,E:\MedicalData\kagglechallenge\Dermnet\train/Vasculitis Photos/stevens-johnson-syndrome-9.jpg
+21,E:\MedicalData\kagglechallenge\Dermnet\train/Vasculitis Photos/vasculitis-131.jpg
+21,E:\MedicalData\kagglechallenge\Dermnet\train/Vasculitis Photos/vasculitis-24.jpg
+21,E:\MedicalData\kagglechallenge\Dermnet\train/Vasculitis Photos/vasculitis-40.jpg
+21,E:\MedicalData\kagglechallenge\Dermnet\train/Vasculitis Photos/vasculitis-55.jpg
+21,E:\MedicalData\kagglechallenge\Dermnet\train/Vasculitis Photos/vasculitis-88.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/black-heel-14.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/black-heel-8.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/eczema-herpeticum-21.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/hand-foot-mouth-7.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/hand-foot-mouth-8.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/herpes-Buttock-1.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/herpes-cutaneous-126.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/herpes-cutaneous-128.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/herpes-cutaneous-15.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/herpes-simplex-52.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/herpes-type-1-primary-13.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/herpes-type-1-primary-26.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/herpes-type-1-primary-33.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/herpes-type-1-primary-65.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/herpes-type-1-primary-72.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/herpes-type-1-recurrent-48.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/herpes-type-1-recurrent-54.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/herpes-type-1-recurrent-73.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/herpes-zoster-155.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/herpes-zoster-17.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/herpes-zoster-180.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/herpes-zoster-187.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/herpes-zoster-82.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/herpetic-Whitlow-10201.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/molluscum-contagiosum-115.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/molluscum-contagiosum-131.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/molluscum-contagiosum-14.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/molluscum-contagiosum-146.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/molluscum-contagiosum-149.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/molluscum-contagiosum-161.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/molluscum-contagiosum-21.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/molluscum-contagiosum-33.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/molluscum-contagiosum-91.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/monkey-pox-1.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/orf-1.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/varicella-16.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/varicella-25.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/varicella-50.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/varicella-59.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/warts-8.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/warts-common-44.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/warts-common-62.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/warts-common-68.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/warts-common-91.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/warts-cryotherapy-21.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/warts-cryotherapy-5.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/warts-digitate-30.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/warts-digitate-42.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/warts-flat-37.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/warts-oral-8.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/warts-periungual-1.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/warts-periungual-18.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/warts-plantar-16.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/warts-plantar-47.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/warts-plantar-58.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/warts-plantar-7.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\train/Warts Molluscum and other Viral Infections/warts-plantar-94.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\test/Acne and Rosacea Photos/acne-cystic-30.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\test/Acne and Rosacea Photos/acne-excoriated-8.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\test/Acne and Rosacea Photos/hidradenitis-suppurativa-33.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\test/Acne and Rosacea Photos/hidradenitis-suppurativa-56.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\test/Acne and Rosacea Photos/hyperhidrosis-2.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\test/Acne and Rosacea Photos/perioral-dermatitis-131.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\test/Acne and Rosacea Photos/perioral-dermatitis-141.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\test/Acne and Rosacea Photos/perioral-dermatitis-23.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\test/Acne and Rosacea Photos/perioral-dermatitis-36.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\test/Acne and Rosacea Photos/rosacea-32.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\test/Acne and Rosacea Photos/rosacea-41.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\test/Acne and Rosacea Photos/rosacea-nose-6.jpg
+0,E:\MedicalData\kagglechallenge\Dermnet\test/Acne and Rosacea Photos/rosacea-nose-65.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/actinic-keratosis-5FU-13.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/actinic-keratosis-5FU-19.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/actinic-keratosis-face-35.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/actinic-keratosis-hand-17.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/arsenical-keratoses-15.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-carcinoma-face-5.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-carcinoma-lesion-49.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-carcinoma-lid-4.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-carcinoma-pigmented-51.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/basal-cell-carcinoma-superficial-47.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/bowens-disease-23.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/bowens-disease-51.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/ctcl-64.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/granulation-tissue-14.jpg
+1,E:\MedicalData\kagglechallenge\Dermnet\test/Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions/squamous-cell-carcinoma-scalp-3.jpg
+2,E:\MedicalData\kagglechallenge\Dermnet\test/Atopic Dermatitis Photos/03ichthyosis0213061.jpg
+2,E:\MedicalData\kagglechallenge\Dermnet\test/Atopic Dermatitis Photos/05hyperkeratosis01010.jpg
+2,E:\MedicalData\kagglechallenge\Dermnet\test/Atopic Dermatitis Photos/05kerPilarisFlorid.jpg
+2,E:\MedicalData\kagglechallenge\Dermnet\test/Atopic Dermatitis Photos/10IMG009.jpg
+2,E:\MedicalData\kagglechallenge\Dermnet\test/Atopic Dermatitis Photos/15IMG009.jpg
+2,E:\MedicalData\kagglechallenge\Dermnet\test/Atopic Dermatitis Photos/KeratosisIMG004-GP3.jpg
+3,E:\MedicalData\kagglechallenge\Dermnet\test/Bullous Disease Photos/bullous-pemphigoid-53.jpg
+3,E:\MedicalData\kagglechallenge\Dermnet\test/Bullous Disease Photos/diabetic-bullae-15.jpg
+3,E:\MedicalData\kagglechallenge\Dermnet\test/Bullous Disease Photos/diabetic-bullae-24.jpg
+3,E:\MedicalData\kagglechallenge\Dermnet\test/Bullous Disease Photos/grovers-disease-45.jpg
+4,E:\MedicalData\kagglechallenge\Dermnet\test/Cellulitis Impetigo and other Bacterial Infections/Folliculitis-19.jpg
+4,E:\MedicalData\kagglechallenge\Dermnet\test/Cellulitis Impetigo and other Bacterial Infections/Leprosy-13.jpg
+4,E:\MedicalData\kagglechallenge\Dermnet\test/Cellulitis Impetigo and other Bacterial Infections/Sycosis-Barbae-11.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\test/Eczema Photos/chapped-fissured-feet-16.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\test/Eczema Photos/Dyshidrosis-35.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\test/Eczema Photos/eczema-acute-5.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\test/Eczema Photos/eczema-arms-5.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\test/Eczema Photos/eczema-asteatotic-54.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\test/Eczema Photos/eczema-fingertips-122.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\test/Eczema Photos/eczema-fingertips-143.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\test/Eczema Photos/eczema-fingertips-37.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\test/Eczema Photos/eczema-fingertips-73.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\test/Eczema Photos/eczema-hand-145.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\test/Eczema Photos/eczema-hand-195.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\test/Eczema Photos/eczema-impetiginized-1.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\test/Eczema Photos/eczema-impetiginized-4.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\test/Eczema Photos/eczema-nummular-14.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\test/Eczema Photos/eczema-nummular-183.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\test/Eczema Photos/eczema-nummular-84.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\test/Eczema Photos/eczema-subacute-106.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\test/Eczema Photos/iododerma-1.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\test/Eczema Photos/maceration-5.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\test/Eczema Photos/neurotic-excoriations-20.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\test/Eczema Photos/stasis-dermatitis-1.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\test/Eczema Photos/stasis-dermatitis-101.jpg
+5,E:\MedicalData\kagglechallenge\Dermnet\test/Eczema Photos/stasis-dermatitis-113.jpg
+6,E:\MedicalData\kagglechallenge\Dermnet\test/Exanthems and Drug Eruptions/drug-eruptions-46.jpg
+6,E:\MedicalData\kagglechallenge\Dermnet\test/Exanthems and Drug Eruptions/enterovirus-20.jpg
+6,E:\MedicalData\kagglechallenge\Dermnet\test/Exanthems and Drug Eruptions/viral-exanthems-28.jpg
+6,E:\MedicalData\kagglechallenge\Dermnet\test/Exanthems and Drug Eruptions/viral-exanthems-4.jpg
+7,E:\MedicalData\kagglechallenge\Dermnet\test/Hair Loss Photos Alopecia and other Hair Diseases/acne-keloidalis-46.jpg
+7,E:\MedicalData\kagglechallenge\Dermnet\test/Hair Loss Photos Alopecia and other Hair Diseases/folliculitis-decalvans-15.jpg
+7,E:\MedicalData\kagglechallenge\Dermnet\test/Hair Loss Photos Alopecia and other Hair Diseases/trichotillomania-2.jpg
+8,E:\MedicalData\kagglechallenge\Dermnet\test/Herpes HPV and other STDs Photos/genital-warts-1.jpg
+8,E:\MedicalData\kagglechallenge\Dermnet\test/Herpes HPV and other STDs Photos/genital-warts-20.jpg
+8,E:\MedicalData\kagglechallenge\Dermnet\test/Herpes HPV and other STDs Photos/genital-warts-27.jpg
+8,E:\MedicalData\kagglechallenge\Dermnet\test/Herpes HPV and other STDs Photos/gonorrhea-9.jpg
+8,E:\MedicalData\kagglechallenge\Dermnet\test/Herpes HPV and other STDs Photos/syphilis-10.jpg
+9,E:\MedicalData\kagglechallenge\Dermnet\test/Light Diseases and Disorders of Pigmentation/lentigo-adults-8.jpg
+9,E:\MedicalData\kagglechallenge\Dermnet\test/Light Diseases and Disorders of Pigmentation/nevus-anemicus-14.jpg
+9,E:\MedicalData\kagglechallenge\Dermnet\test/Light Diseases and Disorders of Pigmentation/porphyrias-77.jpg
+9,E:\MedicalData\kagglechallenge\Dermnet\test/Light Diseases and Disorders of Pigmentation/porphyrias-8.jpg
+9,E:\MedicalData\kagglechallenge\Dermnet\test/Light Diseases and Disorders of Pigmentation/pseudo-porphyria-4.jpg
+9,E:\MedicalData\kagglechallenge\Dermnet\test/Light Diseases and Disorders of Pigmentation/sun-damaged-skin-19.jpg
+9,E:\MedicalData\kagglechallenge\Dermnet\test/Light Diseases and Disorders of Pigmentation/vitiligo-21.jpg
+9,E:\MedicalData\kagglechallenge\Dermnet\test/Light Diseases and Disorders of Pigmentation/vitiligo-5.jpg
+10,E:\MedicalData\kagglechallenge\Dermnet\test/Lupus and other Connective Tissue diseases/crest-syndrome-12.jpg
+10,E:\MedicalData\kagglechallenge\Dermnet\test/Lupus and other Connective Tissue diseases/erythromelalgia-2.jpg
+10,E:\MedicalData\kagglechallenge\Dermnet\test/Lupus and other Connective Tissue diseases/lupus-chronic-cutaneous-36.jpg
+10,E:\MedicalData\kagglechallenge\Dermnet\test/Lupus and other Connective Tissue diseases/lupus-chronic-cutaneous-78.jpg
+10,E:\MedicalData\kagglechallenge\Dermnet\test/Lupus and other Connective Tissue diseases/morphea-28.jpg
+10,E:\MedicalData\kagglechallenge\Dermnet\test/Lupus and other Connective Tissue diseases/morphea-58.jpg
+11,E:\MedicalData\kagglechallenge\Dermnet\test/Melanoma Skin Cancer Nevi and Moles/atypical-nevi-10.jpg
+11,E:\MedicalData\kagglechallenge\Dermnet\test/Melanoma Skin Cancer Nevi and Moles/atypical-nevi-dermoscopy-97.jpg
+11,E:\MedicalData\kagglechallenge\Dermnet\test/Melanoma Skin Cancer Nevi and Moles/congenital-nevus-11.jpg
+11,E:\MedicalData\kagglechallenge\Dermnet\test/Melanoma Skin Cancer Nevi and Moles/malignant-melanoma-176.jpg
+11,E:\MedicalData\kagglechallenge\Dermnet\test/Melanoma Skin Cancer Nevi and Moles/malignant-melanoma-180.jpg
+11,E:\MedicalData\kagglechallenge\Dermnet\test/Melanoma Skin Cancer Nevi and Moles/melanocytic-nevi-91.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\test/Nail Fungus and other Nail Disease/acute-paronychia-7.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\test/Nail Fungus and other Nail Disease/alopecia-areata-4.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\test/Nail Fungus and other Nail Disease/chronic-paronychia-52.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\test/Nail Fungus and other Nail Disease/clubbing-3.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\test/Nail Fungus and other Nail Disease/habit-tic-deformity-12.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\test/Nail Fungus and other Nail Disease/habit-tic-deformity-29.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\test/Nail Fungus and other Nail Disease/leukonychia-5.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\test/Nail Fungus and other Nail Disease/lichen-planus-168.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\test/Nail Fungus and other Nail Disease/lichen-planus-20.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\test/Nail Fungus and other Nail Disease/mucous-cyst-30.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\test/Nail Fungus and other Nail Disease/mucous-cyst-95.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\test/Nail Fungus and other Nail Disease/onycholysis-15.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\test/Nail Fungus and other Nail Disease/pseudomonas-15.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\test/Nail Fungus and other Nail Disease/psoriasis-145.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\test/Nail Fungus and other Nail Disease/psoriasis-160.jpg
+12,E:\MedicalData\kagglechallenge\Dermnet\test/Nail Fungus and other Nail Disease/psoriasis-31.jpg
+13,E:\MedicalData\kagglechallenge\Dermnet\test/Poison Ivy Photos and other Contact Dermatitis/allergic-contact-dermatitis-118.jpg
+13,E:\MedicalData\kagglechallenge\Dermnet\test/Poison Ivy Photos and other Contact Dermatitis/rhus-dermatitis-76.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\test/Psoriasis pictures Lichen Planus and related diseases/lichen-planus-89.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\test/Psoriasis pictures Lichen Planus and related diseases/Lichen-Planus-Oral-14.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\test/Psoriasis pictures Lichen Planus and related diseases/Lichen-Sclerosus-Penis-27.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\test/Psoriasis pictures Lichen Planus and related diseases/Lichen-Sclerosus-Skin-127.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\test/Psoriasis pictures Lichen Planus and related diseases/Lichen-Sclerosus-Skin-14.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\test/Psoriasis pictures Lichen Planus and related diseases/pityriasis-rosea-8.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\test/Psoriasis pictures Lichen Planus and related diseases/Psoriasis-Chronic-Plaque-194.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\test/Psoriasis pictures Lichen Planus and related diseases/psoriasis-digits-2.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\test/Psoriasis pictures Lichen Planus and related diseases/Psoriasis-Guttate-102.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\test/Psoriasis pictures Lichen Planus and related diseases/Psoriasis-inversus-17.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\test/Psoriasis pictures Lichen Planus and related diseases/psoriasis-palms-soles-11.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\test/Psoriasis pictures Lichen Planus and related diseases/psoriasis-palms-soles-147.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\test/Psoriasis pictures Lichen Planus and related diseases/psoriasis-palms-soles-81.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\test/Psoriasis pictures Lichen Planus and related diseases/reiter-syndrome-19.jpg
+14,E:\MedicalData\kagglechallenge\Dermnet\test/Psoriasis pictures Lichen Planus and related diseases/seborrheic-dermatitis-146.jpg
+15,E:\MedicalData\kagglechallenge\Dermnet\test/Scabies Lyme Disease and other Infestations and Bites/cutaneous-Larva-Migrans-23.jpg
+15,E:\MedicalData\kagglechallenge\Dermnet\test/Scabies Lyme Disease and other Infestations and Bites/duck-itch-13.jpg
+15,E:\MedicalData\kagglechallenge\Dermnet\test/Scabies Lyme Disease and other Infestations and Bites/fire-ants-111.jpg
+15,E:\MedicalData\kagglechallenge\Dermnet\test/Scabies Lyme Disease and other Infestations and Bites/jelly-fish-sting1.jpg
+15,E:\MedicalData\kagglechallenge\Dermnet\test/Scabies Lyme Disease and other Infestations and Bites/pubic-lice-52.jpg
+15,E:\MedicalData\kagglechallenge\Dermnet\test/Scabies Lyme Disease and other Infestations and Bites/scabies-15.jpg
+15,E:\MedicalData\kagglechallenge\Dermnet\test/Scabies Lyme Disease and other Infestations and Bites/spider-bite-2.jpg
+15,E:\MedicalData\kagglechallenge\Dermnet\test/Scabies Lyme Disease and other Infestations and Bites/spider-bite-26.jpg
+15,E:\MedicalData\kagglechallenge\Dermnet\test/Scabies Lyme Disease and other Infestations and Bites/spider-bite-28.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\test/Seborrheic Keratoses and other Benign Tumors/chondrodermatitis-nodularis-28.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\test/Seborrheic Keratoses and other Benign Tumors/dermatofibroma-50.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\test/Seborrheic Keratoses and other Benign Tumors/dermatofibroma-96.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\test/Seborrheic Keratoses and other Benign Tumors/epidermal-nevus-14.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\test/Seborrheic Keratoses and other Benign Tumors/epidermal-nevus-5.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\test/Seborrheic Keratoses and other Benign Tumors/fibroma-8.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\test/Seborrheic Keratoses and other Benign Tumors/keratoacanthoma-1.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\test/Seborrheic Keratoses and other Benign Tumors/sebaceous-hyperplasia-1.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\test/Seborrheic Keratoses and other Benign Tumors/sebaceous-hyperplasia-102.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\test/Seborrheic Keratoses and other Benign Tumors/sebaceous-hyperplasia-13.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\test/Seborrheic Keratoses and other Benign Tumors/sebaceous-hyperplasia-4.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\test/Seborrheic Keratoses and other Benign Tumors/seborrheic-keratoses-ruff-139.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\test/Seborrheic Keratoses and other Benign Tumors/seborrheic-keratoses-ruff-148.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\test/Seborrheic Keratoses and other Benign Tumors/seborrheic-keratoses-ruff-174.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\test/Seborrheic Keratoses and other Benign Tumors/seborrheic-keratoses-smooth-16.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\test/Seborrheic Keratoses and other Benign Tumors/seborrheic-keratosis-irritated-105.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\test/Seborrheic Keratoses and other Benign Tumors/seborrheic-keratosis-irritated-145.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\test/Seborrheic Keratoses and other Benign Tumors/seborrheic-keratosis-irritated-162.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\test/Seborrheic Keratoses and other Benign Tumors/seborrheic-keratosis-irritated-168.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\test/Seborrheic Keratoses and other Benign Tumors/stucco-keratoses-16.jpg
+16,E:\MedicalData\kagglechallenge\Dermnet\test/Seborrheic Keratoses and other Benign Tumors/stucco-keratoses-25.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\test/Systemic Disease/acanthosis-nigricans-2.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\test/Systemic Disease/acrodermatitis-enteropathica-3.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\test/Systemic Disease/granuloma-annulare-107.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\test/Systemic Disease/granuloma-annulare-151.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\test/Systemic Disease/necrobiosis-lipoidica-70.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\test/Systemic Disease/neurofibromatosis-12.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\test/Systemic Disease/neurofibromatosis-18.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\test/Systemic Disease/tuberous-sclerosis-42.jpg
+17,E:\MedicalData\kagglechallenge\Dermnet\test/Systemic Disease/xanthomas-60.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\test/Tinea Ringworm Candidiasis and other Fungal Infections/candidiasis-large-skin-folds-115.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\test/Tinea Ringworm Candidiasis and other Fungal Infections/candidiasis-large-skin-folds-123.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\test/Tinea Ringworm Candidiasis and other Fungal Infections/confluent-reticulate-papillomatosis-2.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\test/Tinea Ringworm Candidiasis and other Fungal Infections/intertrigo-36.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\test/Tinea Ringworm Candidiasis and other Fungal Infections/pityrosporum-folliculitis-3.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\test/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-foot-plantar-28.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\test/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-foot-plantar-56.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\test/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-foot-webs-36.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\test/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-groin-17.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\test/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-groin-67.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\test/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-groin-68.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\test/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-hand-dorsum-25.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\test/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-laboratory-46.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\test/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-scalp-49.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\test/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-versicolor-176.jpg
+18,E:\MedicalData\kagglechallenge\Dermnet\test/Tinea Ringworm Candidiasis and other Fungal Infections/tinea-versicolor-86.jpg
+19,E:\MedicalData\kagglechallenge\Dermnet\test/Urticaria Hives/hives-Urticaria-Acute-102.jpg
+20,E:\MedicalData\kagglechallenge\Dermnet\test/Vascular Tumors/cherry-angioma-16.jpg
+20,E:\MedicalData\kagglechallenge\Dermnet\test/Vascular Tumors/hemangioma-23.jpg
+20,E:\MedicalData\kagglechallenge\Dermnet\test/Vascular Tumors/kaposi-sarcoma-26.jpg
+20,E:\MedicalData\kagglechallenge\Dermnet\test/Vascular Tumors/pyogenic-granuloma-112.jpg
+20,E:\MedicalData\kagglechallenge\Dermnet\test/Vascular Tumors/pyogenic-granuloma-2.jpg
+20,E:\MedicalData\kagglechallenge\Dermnet\test/Vascular Tumors/telangiectasias-21.jpg
+20,E:\MedicalData\kagglechallenge\Dermnet\test/Vascular Tumors/venous-lake-20.jpg
+21,E:\MedicalData\kagglechallenge\Dermnet\test/Vasculitis Photos/erythema-multiforme-157.jpg
+21,E:\MedicalData\kagglechallenge\Dermnet\test/Vasculitis Photos/erythema-multiforme-16.jpg
+21,E:\MedicalData\kagglechallenge\Dermnet\test/Vasculitis Photos/pyoderma-gangrenosum-1.jpg
+21,E:\MedicalData\kagglechallenge\Dermnet\test/Vasculitis Photos/pyoderma-gangrenosum-14.jpg
+21,E:\MedicalData\kagglechallenge\Dermnet\test/Vasculitis Photos/sweets-syndrome-9.jpg
+21,E:\MedicalData\kagglechallenge\Dermnet\test/Vasculitis Photos/vasculitis-42.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\test/Warts Molluscum and other Viral Infections/eczema-herpeticum-12.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\test/Warts Molluscum and other Viral Infections/eczema-herpeticum-27.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\test/Warts Molluscum and other Viral Infections/herpes-buttocks-17.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\test/Warts Molluscum and other Viral Infections/herpes-cutaneous-43.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\test/Warts Molluscum and other Viral Infections/herpes-simplex-34.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\test/Warts Molluscum and other Viral Infections/herpes-simplex-39.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\test/Warts Molluscum and other Viral Infections/herpes-type-1-primary-31.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\test/Warts Molluscum and other Viral Infections/herpes-zoster-112.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\test/Warts Molluscum and other Viral Infections/herpes-zoster-137.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\test/Warts Molluscum and other Viral Infections/herpes-zoster-14.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\test/Warts Molluscum and other Viral Infections/herpes-zoster-188.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\test/Warts Molluscum and other Viral Infections/herpes-zoster-194.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\test/Warts Molluscum and other Viral Infections/herpes-zoster-99.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\test/Warts Molluscum and other Viral Infections/molluscum-contagiosum-147.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\test/Warts Molluscum and other Viral Infections/varicella-45.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\test/Warts Molluscum and other Viral Infections/warts-14.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\test/Warts Molluscum and other Viral Infections/warts-common-20.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\test/Warts Molluscum and other Viral Infections/warts-common-56.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\test/Warts Molluscum and other Viral Infections/warts-cryotherapy-22.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\test/Warts Molluscum and other Viral Infections/warts-digitate-54.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\test/Warts Molluscum and other Viral Infections/warts-flat-15.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\test/Warts Molluscum and other Viral Infections/warts-plantar-22.jpg
+22,E:\MedicalData\kagglechallenge\Dermnet\test/Warts Molluscum and other Viral Infections/warts-plantar-8.jpg
